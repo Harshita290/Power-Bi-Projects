@@ -8,4 +8,4 @@ It included the given 3 tasks and dashboards to be created.
 
 
 # The Sparks Foundation
-[Covid Analysis](https://github.com/Harshita290/Power-Bi-Projects/tree/main/Sparks%20Foundation)
+1. [Covid Analysis](https://github.com/Harshita290/Power-Bi-Projects/tree/main/Sparks%20Foundation)
