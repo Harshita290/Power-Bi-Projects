@@ -11,6 +11,6 @@ The project is about '𝐂𝐚𝐥𝐥 𝐂𝐞𝐧𝐭𝐞𝐫 𝐓𝐫𝐞𝐧
 
 ➡️ Maximum calls are rated as 3 by customers.
 
-<img src = "https://ibb.co/PDcNb5j" alt ="image" width = "600" height = "400">
+<img src = "C:\Users\harsh\Desktop\Screenshot 2023-05-24 154117.png" alt ="image" width = "600" height = "600">
 
 
