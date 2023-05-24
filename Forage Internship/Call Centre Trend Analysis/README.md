@@ -11,6 +11,7 @@ The project is about '𝐂𝐚𝐥𝐥 𝐂𝐞𝐧𝐭𝐞𝐫 𝐓𝐫𝐞𝐧
 
 ➡️ Maximum calls are rated as 3 by customers.
 
-<img src = "C:\Users\harsh\Desktop\Screenshot 2023-05-24 154117.png" alt ="image" width = "600" height = "600">
+
+<img src = "https://github.com/Harshita290/Power-Bi-Projects/blob/main/Forage%20Internship/Call%20Centre%20Trend%20Analysis/Call%20Centre%20Trend%20Analysis.png" alt ="image" width = "700" height = "400">
 
 
